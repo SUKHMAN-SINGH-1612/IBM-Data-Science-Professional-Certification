@@ -1,2 +1,2 @@
 # Data-Science
-This repo is about data science course
+## This Repository is for the assignments for the Data Science Course
