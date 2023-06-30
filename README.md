@@ -14,5 +14,6 @@ The IBM Data Science Professional Certification is designed to provide participa
 - Data Visualization with Python
 - Machine Learning with Python
 - Applied Data Science Capstone
-## 
+## Contributions and Support
+Contributions to this repository, such as bug fixes, improvements, or additional assignments, are welcome. For any questions or support related to the assignments or the certification program itself, it is advised to refer to the official IBM Data Science Professional Certification resources and forums. The repository maintainers may not be able to provide direct support for issues specific to the certification program.
   
